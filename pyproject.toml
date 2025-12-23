@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "boask"
-version = "1.0.1 - Bugfixes"
+version = "1.0.1"
 description = "Pure Python website engine. Zero dependencies. Real JSX templates."
 readme = "README.md"
 requires-python = ">=3.8"
@@ -20,3 +20,4 @@ Homepage = "https://github.com/OXOPSoftware/boask"
 [tool.hatch.build.targets.wheel]
 
 packages = ["boask"]
+
