@@ -10,20 +10,12 @@ readme = "README.md"
 requires-python = ">=3.8"
 license = "MIT"
 authors = [
-    { name = "Your Name", email = "you@example.com" },
+    { name = "OXOP", email = "SHUTUP@SHUPUP.COM" },
 ]
-keywords = ["web", "framework", "minimal", "jsx", "python", "no-dependencies"]
-classifiers = [
-    "Programming Language :: Python :: 3",
-    "License :: OSI Approved :: MIT License",
-    "Operating System :: OS Independent",
-    "Topic :: Internet :: WWW/HTTP :: Dynamic Content",
-]
+keywords = ["web", "minimal", "jsx", "python", "no-dependencies"]
 
 [project.urls]
 Homepage = "https://github.com/OXOPSoftware/boask"
-Repository = "https://github.com/OXOPSoftware/boask"
-Issues = "https://github.com/OXOPSoftware/boask/issues"
 
 [tool.hatch.build.targets.wheel]
 packages = ["boask"]
