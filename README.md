@@ -1,3 +1,7 @@
+GitHub exclusive:
+<br>
+I AM NO LONGER MAKING THIS OPEN SOURCE!!! GET THE TAR.GZ INSTEAD FROM [HERE!!!!](https://pypi.org/project/boask/#files)
+<br>
 # Boask
 
 Pure Python website engine.  
@@ -20,4 +24,5 @@ def home(handler):
 if __name__ == "__main__":
     run_server()
 ```
+
 
