@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1 align="center">Boask</h1>
 <div align="center"><img src="https://0xopx.github.io/some-things-lol/boask/logo.svg" alt="Boask Logo" /><br>
 Minimal website engine. <br>
