@@ -1,0 +1,15 @@
+build/
+dist/
+*.egg-info/
+__pycache__/
+*.py[cod]
+*$py.class
+.vscode/
+*.code-workspace
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
