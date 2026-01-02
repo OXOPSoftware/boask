@@ -53,6 +53,3 @@ def home(handler):
 if __name__ == "__main__":
     run_server()
 ```
-
-
->>>>>>> 80a7fb02c391cbb5171819d85087198baf242f63
