@@ -3,6 +3,7 @@
 Minimal website engine. <br>
 </div>
 
+**Source (GitHub): [GitHub Link](https://github.com/OXOPSoftware/boask.git) *(If you are on GitHub, please do not expect stable versions when there is a alpha version, it will get the alpha version, and will get version first)***
 ```bash
 pip install boask
 ```
@@ -17,9 +18,11 @@ def home(handler):
 if __name__ == "__main__":
     run_server()
 ```
+
+Make sure you are creating, at your project directory level, a `templates` folder containing the `home.html` file.
 # Comparison to Flask
 1. Lightweight.
-2. No external dependecies.
+2. No external dependencies.
 3. Unlike Flask, it's for beginners, and movers from Flask.
 4. No `{{ url_for('static', filename='css/main.css') }}` (example), we use `/static/css/main.css` for example!
 # Info
