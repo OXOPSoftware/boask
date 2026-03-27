@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.8"
 license = { text = "MIT" }
 authors = [
-    { name = "OXOP", email = "minbartek41@gmail.com" }
+    { name = "OXOP", email = "sdfubhysdfahifsadhbfsdabhkjsfdahjkbfsbadjhkasdfbjhkksfbjadhasbkjfhdksjhbfdkjabshfdkbhjsfdkbjhdf@gdfgslk.com" }
 ]
 keywords = ["web", "minimal", "python", "wsgi", "jsx", "templates"]
 classifiers = [
